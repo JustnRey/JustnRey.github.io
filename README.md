@@ -1,5 +1,5 @@
 # Hi there, I'm Justine Rey 👋
-justnrey.github.io
+#justnrey.github.io
 
 🎓 Student at **Davao del Norte State College**, Philippines  
 💻 Aspiring developer learning to build for the web, one project at a time  
@@ -7,7 +7,7 @@ justnrey.github.io
 
 ---
 
-## 🚀 About Me
+## About Me
 
 I'm a beginner developer passionate about creating useful things with code. I enjoy turning ideas into working projects — even small ones. Currently studying and growing every day, exploring web development and software engineering.
 
